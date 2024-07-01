@@ -1,0 +1,2335 @@
+fileFormatVersion: 2
+guid: b964ea7bbe1528f42a74b578cb558beb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WinVictory_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7593.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebea1adef6ce066429de404c83713993
+      internalID: -820573885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_1
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 7593.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719a1f7faf9d8594b8136d7eaad0a816
+      internalID: -345682764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_2
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 7593.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f410855d915c33148993a0e10e1fe7f0
+      internalID: 1237376546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_3
+      rect:
+        serializedVersion: 2
+        x: 4497
+        y: 7593.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77ed5525b91b5c44be48b3cf3e8eeaa
+      internalID: 701501057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_4
+      rect:
+        serializedVersion: 2
+        x: 5996
+        y: 7593.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef2efbd1cc9e474688e5415b250766a
+      internalID: -635617989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_5
+      rect:
+        serializedVersion: 2
+        x: 7495
+        y: 7593.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab553b4b88a1f3c4a84404c881890d50
+      internalID: 74910912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_6
+      rect:
+        serializedVersion: 2
+        x: 8994
+        y: 7593.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37bd40568a33004fb5f83b07994dd3b
+      internalID: -1574953074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_7
+      rect:
+        serializedVersion: 2
+        x: 10493
+        y: 7593.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49be6e569214fcd4fb8839bb81f555ff
+      internalID: -881503898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_8
+      rect:
+        serializedVersion: 2
+        x: 11992
+        y: 7593.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487255c2225d29e40b40f174457d12c2
+      internalID: 1244951042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_9
+      rect:
+        serializedVersion: 2
+        x: 13491
+        y: 7593.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b65ac38a6c430349a8787750fb5e582
+      internalID: -74140182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6750.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0865f6e57bfaf7a448252e0b463b3bdd
+      internalID: -776614809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_11
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 6750.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4a4b7ab70ef6a4d8b2cb115f4b2b90
+      internalID: -1670132397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_12
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 6750.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77ec16a933e77a479d91828b63db6be
+      internalID: 1466025925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_13
+      rect:
+        serializedVersion: 2
+        x: 4497
+        y: 6750.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97c2997230e9634f8507b465c53ecc0
+      internalID: 2079089008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_14
+      rect:
+        serializedVersion: 2
+        x: 5996
+        y: 6750.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9e19c65dd55274881f3524bb74cdde
+      internalID: -1046853482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_15
+      rect:
+        serializedVersion: 2
+        x: 7495
+        y: 6750.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2e5c536710122409812d947b539599
+      internalID: -404663032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_16
+      rect:
+        serializedVersion: 2
+        x: 8994
+        y: 6750.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae7c607f4b129b4a802fc89698ca2cc
+      internalID: -1578457807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_17
+      rect:
+        serializedVersion: 2
+        x: 10493
+        y: 6750.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530fbcb4e866dce4f9bef33ffe8f9566
+      internalID: 718998867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_18
+      rect:
+        serializedVersion: 2
+        x: 11992
+        y: 6750.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4e6d40c8fe16f4d8f595b319acc323
+      internalID: 1133384689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_19
+      rect:
+        serializedVersion: 2
+        x: 13491
+        y: 6750.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f58491be3235f74da47d0e1b507c7fe
+      internalID: -1800170151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5907.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da85ed694b611ed43b82c23e76fc798a
+      internalID: -579619963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_21
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 5907.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf7ec3d0db522c41a617a5d63f841e1
+      internalID: -2136389682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_22
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 5907.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98234cff9e618404d9f33812b3e34267
+      internalID: -1927601402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_23
+      rect:
+        serializedVersion: 2
+        x: 4497
+        y: 5907.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2541e02ae51c684b81a3a2a2be90d75
+      internalID: -1127306397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_24
+      rect:
+        serializedVersion: 2
+        x: 5996
+        y: 5907.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a02e8b9eea49e4eb28cdc87f625e04
+      internalID: -564871223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_25
+      rect:
+        serializedVersion: 2
+        x: 7495
+        y: 5907.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3725386e790c4324a9b5caed76551f72
+      internalID: -1446816523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_26
+      rect:
+        serializedVersion: 2
+        x: 8994
+        y: 5907.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98221008200b93e408e508b9e859e7cd
+      internalID: 2074543233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_27
+      rect:
+        serializedVersion: 2
+        x: 10493
+        y: 5907.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a58dd719c373c943a4732d262f62707
+      internalID: 195247668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_28
+      rect:
+        serializedVersion: 2
+        x: 11992
+        y: 5907.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c6d7a11eb2cbb44807104c0a3c2b20
+      internalID: -375118353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_29
+      rect:
+        serializedVersion: 2
+        x: 13491
+        y: 5907.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db969a5af46797342a537934d2c6e55f
+      internalID: -1891997983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5064.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcc8d89bfdd1d24d873d154230b8f84
+      internalID: 197666621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_31
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 5064.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17209325d1805046a01efc0b8fd0056
+      internalID: -943924733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_32
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 5064.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fc1dc1fe43e9346811b3aeecbade5a
+      internalID: 254295685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_33
+      rect:
+        serializedVersion: 2
+        x: 4497
+        y: 5064.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fa5a89de368b141914925f43d20e71
+      internalID: -271307687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_34
+      rect:
+        serializedVersion: 2
+        x: 5996
+        y: 5064.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f008d3f76e33446af798c197604c32
+      internalID: 679531692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_35
+      rect:
+        serializedVersion: 2
+        x: 7495
+        y: 5064.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7257616a2babf947a87eca49051eb2f
+      internalID: -1755607398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_36
+      rect:
+        serializedVersion: 2
+        x: 8994
+        y: 5064.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e1575f816ddb44797a41cbbbcc8140
+      internalID: -1493521237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_37
+      rect:
+        serializedVersion: 2
+        x: 10493
+        y: 5064.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8471c81927369cc42ac018ed072475df
+      internalID: -366932608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_38
+      rect:
+        serializedVersion: 2
+        x: 11992
+        y: 5064.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c08b1546e1cdc64dad1510d585813d6
+      internalID: -1358528670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_39
+      rect:
+        serializedVersion: 2
+        x: 13491
+        y: 5064.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abf4519ce5beac4eb7c72f07d49cb0a
+      internalID: 632740213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4221.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6955eb25dbfff4395d90120142019c
+      internalID: -932368906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_41
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 4221.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab68ffdec17f354492389b8a31d668c
+      internalID: -2123099233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_42
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 4221.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb6b438b266f69409534db8f01c5ce9
+      internalID: 402001952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_43
+      rect:
+        serializedVersion: 2
+        x: 4497
+        y: 4221.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6645b1fadf5da40837adfc521f67d3
+      internalID: 208572083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_44
+      rect:
+        serializedVersion: 2
+        x: 5996
+        y: 4221.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d48ece26643a94da8f24a4f1aa5eda
+      internalID: 1946915371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_45
+      rect:
+        serializedVersion: 2
+        x: 7495
+        y: 4221.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b895bd32858f54a8050f40849ae9b1
+      internalID: 881779046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_46
+      rect:
+        serializedVersion: 2
+        x: 8994
+        y: 4221.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121b18a46ec54b74f94a65ba365f9041
+      internalID: 872616819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_47
+      rect:
+        serializedVersion: 2
+        x: 10493
+        y: 4221.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a672b67ca19d47418e8f307b454a57b
+      internalID: 769374685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_48
+      rect:
+        serializedVersion: 2
+        x: 11992
+        y: 4221.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674cc64eacec60d42bd364dceb5cf3dc
+      internalID: 1786176160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_49
+      rect:
+        serializedVersion: 2
+        x: 13491
+        y: 4221.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56bc09692002f7488a9ee9ad28b0d01
+      internalID: 1778396326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3378.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45b9d1f3e59ff840ae36a6401533a90
+      internalID: -583818672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_51
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 3378.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640532085cbbd694cb3fe9723f9390ab
+      internalID: 1938849060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_52
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 3378.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3174401c75de4541a022ed2b9f71132
+      internalID: 912264661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_53
+      rect:
+        serializedVersion: 2
+        x: 4497
+        y: 3378.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902439699ffdadb42b25fde15bbb8479
+      internalID: -551901981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_54
+      rect:
+        serializedVersion: 2
+        x: 5996
+        y: 3378.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65c39466eb705445a803f545bb4d460
+      internalID: -1690783749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_55
+      rect:
+        serializedVersion: 2
+        x: 7495
+        y: 3378.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3613fb44d9b164bb89b60a3dd2c8de
+      internalID: -1561989164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_56
+      rect:
+        serializedVersion: 2
+        x: 8994
+        y: 3378.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5adac6afbe496c43927240a4fd5cbba
+      internalID: -982479517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_57
+      rect:
+        serializedVersion: 2
+        x: 10493
+        y: 3378.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2429201eb93766647b213a6567a8d258
+      internalID: -487233084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_58
+      rect:
+        serializedVersion: 2
+        x: 11992
+        y: 3378.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fa804bcef20694a8c4f03cd854e6e0
+      internalID: 1057736796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_59
+      rect:
+        serializedVersion: 2
+        x: 13491
+        y: 3378.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad849a924e2882443a3c9300ecc7e407
+      internalID: -816723849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2535.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8f22b1a7ce95741bc60a68785c1b8a
+      internalID: -1599840851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_61
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 2535.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b892385b6e3a62c498d5ba182f645c73
+      internalID: -609787810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_62
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 2535.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42bbd0309981fc4f9b51fdf82b94a4a
+      internalID: -373967884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_63
+      rect:
+        serializedVersion: 2
+        x: 4497
+        y: 2535.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf74d5c584e4e67408f92e1f9dc8365c
+      internalID: -929750314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_64
+      rect:
+        serializedVersion: 2
+        x: 5996
+        y: 2535.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbd44a2dc0625d4b8fd6bbc621cb960
+      internalID: 1971928693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_65
+      rect:
+        serializedVersion: 2
+        x: 7495
+        y: 2535.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1037f093798946459c8015ca86177a1
+      internalID: -1830712545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_66
+      rect:
+        serializedVersion: 2
+        x: 8994
+        y: 2535.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8894d8762f6ad242a952484da0cf2ec
+      internalID: 352390758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_67
+      rect:
+        serializedVersion: 2
+        x: 10493
+        y: 2535.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a861832bbd9c044c9114735f6a9c71d
+      internalID: -164299812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_68
+      rect:
+        serializedVersion: 2
+        x: 11992
+        y: 2535.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b062367154f21045ba0ea01a9bcc744
+      internalID: -1425561499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_69
+      rect:
+        serializedVersion: 2
+        x: 13491
+        y: 2535.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590659fbcdc27644e9ccca2c7c5ec3f5
+      internalID: -846234292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1692.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dcb59ff8b08674baffdc4a7339fb6d
+      internalID: -267094164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_71
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1692.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6fe3607c293ec41b0fb6b6727b7e37
+      internalID: -2034706962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_72
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 1692.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58693a913b6b8f4188bc7456f509315
+      internalID: 1665758281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_73
+      rect:
+        serializedVersion: 2
+        x: 4497
+        y: 1692.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba9bcd8fd8125846ac03e73ef54d525
+      internalID: 429172411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_74
+      rect:
+        serializedVersion: 2
+        x: 5996
+        y: 1692.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a16a41240e16a4d8e11ea5b94791a1
+      internalID: -1736467167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_75
+      rect:
+        serializedVersion: 2
+        x: 7495
+        y: 1692.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6461db4d772dff249bfe444ab2c662f1
+      internalID: -2002719033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_76
+      rect:
+        serializedVersion: 2
+        x: 8994
+        y: 1692.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffe5c9c8251f02499ca39d11aca6ea2
+      internalID: 2072294481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_77
+      rect:
+        serializedVersion: 2
+        x: 10493
+        y: 1692.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e8425f96cd9e3469f5371392f5ad3d
+      internalID: 260653677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_78
+      rect:
+        serializedVersion: 2
+        x: 11992
+        y: 1692.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282c82745622f024fb40aeb227310016
+      internalID: 43006766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_79
+      rect:
+        serializedVersion: 2
+        x: 13491
+        y: 1692.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef7846f3fe04204880b618437cd7dbc
+      internalID: 989622058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 849.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3c49747a88e6642a6cad5891cef051
+      internalID: -409578459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_81
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 849.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3a1b43578a9d141ba86686c175343a
+      internalID: -1995712838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_82
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 849.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf661443f9e2e94781e1be72004e743
+      internalID: -1460809672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_83
+      rect:
+        serializedVersion: 2
+        x: 4497
+        y: 849.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ee3ed203b78ae46ae3e0772ac433fe
+      internalID: 253015237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_84
+      rect:
+        serializedVersion: 2
+        x: 5996
+        y: 849.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb691024b44048d4983fb1d2a8225b13
+      internalID: 1918766730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_85
+      rect:
+        serializedVersion: 2
+        x: 7495
+        y: 849.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90be3b0712e9cad48a14cbb2a567c6b2
+      internalID: 39696422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_86
+      rect:
+        serializedVersion: 2
+        x: 8994
+        y: 849.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32099e69c9247f2498a7be963c8310bf
+      internalID: -1850440739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_87
+      rect:
+        serializedVersion: 2
+        x: 10493
+        y: 849.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e83033327dfa034aae645fa6327d9cf
+      internalID: 1448756901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_88
+      rect:
+        serializedVersion: 2
+        x: 11992
+        y: 849.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cbbc33f06e8be4a955f687259aed92
+      internalID: 1979273528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_89
+      rect:
+        serializedVersion: 2
+        x: 13491
+        y: 849.3
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49f511147edfb14a841145eed73c703
+      internalID: 1846946697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6.299988
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc423665e715b584f8c0aceb59046a2a
+      internalID: 745290660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_91
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 6.299988
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a037f49169316b4cad99f1a0af7cf0b
+      internalID: 1599368409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_92
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 6.299988
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac518e0125f3b8c44a6d43ae17f775fb
+      internalID: -823920235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_93
+      rect:
+        serializedVersion: 2
+        x: 4497
+        y: 6.299988
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3affb4608ea382c4eb33fcc5350d80d2
+      internalID: -389193110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_94
+      rect:
+        serializedVersion: 2
+        x: 5996
+        y: 6.299988
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04238a48acf78984b9a75b1f1d2c5cfd
+      internalID: 1488592276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_95
+      rect:
+        serializedVersion: 2
+        x: 7495
+        y: 6.299988
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd32361bf732b446aa406c6bd9b852e
+      internalID: -2015817293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_96
+      rect:
+        serializedVersion: 2
+        x: 8994
+        y: 6.299988
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affd558cc1dc7474996ab518cb61b382
+      internalID: 805546559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_97
+      rect:
+        serializedVersion: 2
+        x: 10493
+        y: 6.299988
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d34074bfd5b96449b48223ba690d761
+      internalID: -368253243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_98
+      rect:
+        serializedVersion: 2
+        x: 11992
+        y: 6.299988
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323fab31912b0f04ab5914a9475e6ce7
+      internalID: 751482936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WinVictory_99
+      rect:
+        serializedVersion: 2
+        x: 13491
+        y: 6.299988
+        width: 1499.9
+        height: 843.7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9552aebbd14fd4f908278b5cd99ee9
+      internalID: 1284086654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WinVictory_0: -820573885
+      WinVictory_1: -345682764
+      WinVictory_10: -776614809
+      WinVictory_11: -1670132397
+      WinVictory_12: 1466025925
+      WinVictory_13: 2079089008
+      WinVictory_14: -1046853482
+      WinVictory_15: -404663032
+      WinVictory_16: -1578457807
+      WinVictory_17: 718998867
+      WinVictory_18: 1133384689
+      WinVictory_19: -1800170151
+      WinVictory_2: 1237376546
+      WinVictory_20: -579619963
+      WinVictory_21: -2136389682
+      WinVictory_22: -1927601402
+      WinVictory_23: -1127306397
+      WinVictory_24: -564871223
+      WinVictory_25: -1446816523
+      WinVictory_26: 2074543233
+      WinVictory_27: 195247668
+      WinVictory_28: -375118353
+      WinVictory_29: -1891997983
+      WinVictory_3: 701501057
+      WinVictory_30: 197666621
+      WinVictory_31: -943924733
+      WinVictory_32: 254295685
+      WinVictory_33: -271307687
+      WinVictory_34: 679531692
+      WinVictory_35: -1755607398
+      WinVictory_36: -1493521237
+      WinVictory_37: -366932608
+      WinVictory_38: -1358528670
+      WinVictory_39: 632740213
+      WinVictory_4: -635617989
+      WinVictory_40: -932368906
+      WinVictory_41: -2123099233
+      WinVictory_42: 402001952
+      WinVictory_43: 208572083
+      WinVictory_44: 1946915371
+      WinVictory_45: 881779046
+      WinVictory_46: 872616819
+      WinVictory_47: 769374685
+      WinVictory_48: 1786176160
+      WinVictory_49: 1778396326
+      WinVictory_5: 74910912
+      WinVictory_50: -583818672
+      WinVictory_51: 1938849060
+      WinVictory_52: 912264661
+      WinVictory_53: -551901981
+      WinVictory_54: -1690783749
+      WinVictory_55: -1561989164
+      WinVictory_56: -982479517
+      WinVictory_57: -487233084
+      WinVictory_58: 1057736796
+      WinVictory_59: -816723849
+      WinVictory_6: -1574953074
+      WinVictory_60: -1599840851
+      WinVictory_61: -609787810
+      WinVictory_62: -373967884
+      WinVictory_63: -929750314
+      WinVictory_64: 1971928693
+      WinVictory_65: -1830712545
+      WinVictory_66: 352390758
+      WinVictory_67: -164299812
+      WinVictory_68: -1425561499
+      WinVictory_69: -846234292
+      WinVictory_7: -881503898
+      WinVictory_70: -267094164
+      WinVictory_71: -2034706962
+      WinVictory_72: 1665758281
+      WinVictory_73: 429172411
+      WinVictory_74: -1736467167
+      WinVictory_75: -2002719033
+      WinVictory_76: 2072294481
+      WinVictory_77: 260653677
+      WinVictory_78: 43006766
+      WinVictory_79: 989622058
+      WinVictory_8: 1244951042
+      WinVictory_80: -409578459
+      WinVictory_81: -1995712838
+      WinVictory_82: -1460809672
+      WinVictory_83: 253015237
+      WinVictory_84: 1918766730
+      WinVictory_85: 39696422
+      WinVictory_86: -1850440739
+      WinVictory_87: 1448756901
+      WinVictory_88: 1979273528
+      WinVictory_89: 1846946697
+      WinVictory_9: -74140182
+      WinVictory_90: 745290660
+      WinVictory_91: 1599368409
+      WinVictory_92: -823920235
+      WinVictory_93: -389193110
+      WinVictory_94: 1488592276
+      WinVictory_95: -2015817293
+      WinVictory_96: 805546559
+      WinVictory_97: -368253243
+      WinVictory_98: 751482936
+      WinVictory_99: 1284086654
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
